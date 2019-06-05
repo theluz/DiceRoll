@@ -1,0 +1,13 @@
+body h1 {
+  text-align: center;
+  font-size: 5rem;
+}
+
+h2 {
+  width: 5%;
+  height: 5%;
+  text-align: center;
+  font-size: 2em;
+  display: inline-block;
+  
+}
