@@ -1,13 +1,56 @@
 body h1 {
   text-align: center;
-  font-size: 5rem;
+  font-size: 5em;
 }
 
-h2 {
-  width: 5%;
-  height: 5%;
+p {
   text-align: center;
   font-size: 2em;
-  display: inline-block;
-  
+}
+
+img {
+  width: 25%;
+
+}
+
+.container-fluid {
+  padding: 0 10% 0 20%;
+  position: relative;
+}
+
+.d20-number {
+  position: absolute;
+  font-size: 3vw;
+  top: 21%;
+  left: 27%;
+}
+.d12-number {
+  position: absolute;
+  font-size: 3vw;
+  top: 18%;
+  left: 44.8%;
+}
+.d10-number {
+  position: absolute;
+  font-size: 3vw;
+  top: 13%;
+  left: 62.6%;
+}
+.d8-number {
+  position: absolute;
+  font-size: 3vw;
+  top: 67%;
+  left: 27.9%;
+}
+.d6-number {
+  position: absolute;
+  font-size: 3vw;
+  top: 69%;
+  left: 46%;
+}
+.d4-number {
+  position: absolute;
+  font-size: 3vw;
+  top: 73%;
+  left: 63.4%;
 }
